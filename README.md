@@ -2,7 +2,7 @@
 - 👀 I’m interested in competitve programming, development and consulting projects
 - 🌱 I’m currently learning DSA and WebDev
 - 💞️ I’m looking to collaborate on open source projects and stuff that can help me build a CV
-- 📫 How to reach me : saksham2003malhotra@gamil.com 
+- 📫 How to reach me : saksham2003malhotra@gmail.com 
 
 <!---
 sakshamm21/sakshamm21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
