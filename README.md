@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sakshamm21 a 2nd year undergraduate at IIT Kanpur
-- 👀 I’m interested in competitve programming, development and consulting projects
-- 🌱 I’m currently learning DSA and WebDev
-- 💞️ I’m looking to collaborate on open source projects and stuff that can help me build a CV
-- 📫 How to reach me : 
+- 👋 hey, i'm saksham, Tech PM at ICICI
+- 🛠️ shipping side quests, checkout [Nazar](https://github.com/sakshamm21/nazar), [Syncronify](https://github.com/sakshamm21/syncronify), [CampyCycle](https://github.com/sakshamm21/campuscycle) and more...
+- 🧠 lowkey obsessed with AI agents, fintech and how money moves
+- ⚽ off the clock: football, geopolitics, music and way too much doomscrolling
+- 📫 slide in: [LinkedIn](https://linkedin.com/in/sakshamm21) · [saksham2003malhotra@gmail.com](mailto:saksham2003malhotra@gmail.com)
 
 <!---
 sakshamm21/sakshamm21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
