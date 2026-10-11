@@ -1,5 +1,5 @@
 - 👋 hey, i'm saksham, Tech PM at ICICI
-- 🛠️ shipping side quests, checkout [Nazar](https://github.com/sakshamm21/nazar), [Syncronify](https://github.com/sakshamm21/syncronify), [CampusCycle](https://github.com/sakshamm21/campuscycle) and more...
+- 🛠️ shipping side quests, checkout [Nazar](https://github.com/sakshamm21/nazar), [Sync](https://github.com/sakshamm21/sync), [CampusCycle](https://github.com/sakshamm21/campuscycle) and more...
 - 🧠 lowkey obsessed with AI agents, fintech and how money moves
 - ⚽ off the clock: football, geopolitics, music and way too much doomscrolling
 - 📫 slide in: [LinkedIn](https://linkedin.com/in/sakshamm21) · [saksham2003malhotra@gmail.com](mailto:saksham2003malhotra@gmail.com)
